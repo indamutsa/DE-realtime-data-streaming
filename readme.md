@@ -40,6 +40,7 @@ You may have to keep an eye on spark-app container as it is the one reading the 
 ```shell
 docker logs -f spark-app
 ```
+![alt text](images/desk.png)
 
 Or by using docker desktop to check the logs of the container.
 
